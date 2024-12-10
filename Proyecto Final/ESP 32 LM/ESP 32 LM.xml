@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\DELL\Desktop\ESP 32 LM\ESP 32 LM\ESP 32 LM.kicad_sch</source>
+    <date>9/12/2024 6:23:03 p. m.</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ESP 32 LM.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90e43b2a-bb8a-4b6e-b61a-6536676c7ff6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36f0505f-88ca-41e5-9008-379355499296</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0u1F</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b723b9e-200d-454a-a564-e9d97b207e4f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c56394e1-c750-4995-8892-47c1b339dd3c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0u1F</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>728e5e9b-e8be-4f94-baf1-7b4b20f921e8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0u1F</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08195788-3bdf-46cd-807f-114a337f359f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0u1F</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0b4d23-0d33-4981-8c2d-8b9dc8751c90</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0u1F</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42c5d5cb-152a-4242-a1e2-0c783c1d9fdf</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd561c4a-890c-4ac3-99e4-5b947fc033a2</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3dcf731-f407-463f-8368-2562dc6de7c0</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>librerias kicad:TVS_LESD5D5.0CT1G</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Transient Voltage Suppressors for ESD Protection
+                        
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Transient Voltage Suppressors for ESD Protection&#xA;                        &#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5de5b91-06f3-41b8-aa51-33449fcbb824</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>librerias kicad:TVS_LESD5D5.0CT1G</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Transient Voltage Suppressors for ESD Protection
+                        
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Transient Voltage Suppressors for ESD Protection&#xA;                        &#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85ef3800-0d86-41fb-8599-34ee490cdbd9</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>librerias kicad:TVS_LESD5D5.0CT1G</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Transient Voltage Suppressors for ESD Protection
+                        
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Transient Voltage Suppressors for ESD Protection&#xA;                        &#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f0f8a7a-ef49-4209-b3c6-ce97eddcbdbe</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N5819HW-7-F</value>
+      <footprint>librerias kicad:SOD3715X145N</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Diode Schottky 1A 40V SOD123 | Diodes Inc 1N5819HW-7-F
+                        
+</field>
+        <field name="MANUFACTURER">Diodes Inc.</field>
+        <field name="MF">Diodes Inc.</field>
+        <field name="MP">1N5819HW-7-F</field>
+        <field name="PARTREV">18-2</field>
+        <field name="Package">SOD-123 Fairchild Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="1N5819HW-7-F" part="1N5819HW-7-F" description=""/>
+      <property name="MF" value="Diodes Inc."/>
+      <property name="Description" value="&#xA;                        &#xA;                            Diode Schottky 1A 40V SOD123 | Diodes Inc 1N5819HW-7-F&#xA;                        &#xA;"/>
+      <property name="Package" value="SOD-123 Fairchild Semiconductor"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="18-2"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="1N5819HW-7-F"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Diodes Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66968779-98ef-4a2f-abd2-2efd418bb7cd</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>PWRLED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b92f3192-0a91-48d9-82ec-7645842fec5d</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SK6812</value>
+      <footprint>LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95c79885-95c3-4a65-b362-e63d69427948</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-M-12</value>
+      <footprint>librerias kicad:HRO_TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS
+                        
+</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+        <field name="MF">HRO Electronics Co., Ltd.</field>
+        <field name="MP">TYPE-C-31-M-12</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12" description=""/>
+      <property name="MF" value="HRO Electronics Co., Ltd."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.26 mm"/>
+      <property name="Package" value="Package"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="2020.12.08"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"/>
+      <property name="MP" value="TYPE-C-31-M-12"/>
+      <property name="Description" value="&#xA;                        &#xA;                            USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS&#xA;                        &#xA;"/>
+      <property name="SNAPEDA_PN" value="TYPE-C-31-M-12"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="HRO Electronics Co., Ltd."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13f7a36a-0398-42a1-9418-681eb32232c8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>TFTLCDS2</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Pin" description="Generic connector, single row, 01x08, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20687152-c9d2-43a0-abdc-9e35ff6bb7c7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72b6d82a-a29e-4db6-a8e1-c15c2c2fc8f0</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87eeaa70-48d7-4d10-8c68-3f9a179203c3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdbaa541-d707-440f-b3e4-b8007276952b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>847bb74a-ecb4-4ab7-94d5-9cac581117d0</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a59f42a-1d6a-4d6e-b1f5-675bc41f91a3</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>PTS810_SJM_250_SMTR_LFS</value>
+      <footprint>librerias kicad:SW_PTS810_SJM_250_SMTR_LFS</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Tactile Switch SPST-NO Top Actuated Surface Mount
+                        
+</field>
+        <field name="MANUFACTURER">CnK</field>
+        <field name="MF">C&amp;K</field>
+        <field name="MP">PTS810SJM250SMTRLFS</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="PTS810_SJM_250_SMTR_LFS" part="PTS810_SJM_250_SMTR_LFS" description=""/>
+      <property name="MF" value="C&amp;K"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;                        &#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=snap"/>
+      <property name="MP" value="PTS810SJM250SMTRLFS"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="CnK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10589fe6-e61b-4916-9400-0b85adc79495</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>PTS810_SJM_250_SMTR_LFS</value>
+      <footprint>librerias kicad:SW_PTS810_SJM_250_SMTR_LFS</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Tactile Switch SPST-NO Top Actuated Surface Mount
+                        
+</field>
+        <field name="MANUFACTURER">CnK</field>
+        <field name="MF">C&amp;K</field>
+        <field name="MP">PTS810SJM250SMTRLFS</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="PTS810_SJM_250_SMTR_LFS" part="PTS810_SJM_250_SMTR_LFS" description=""/>
+      <property name="MF" value="C&amp;K"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;                        &#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=snap"/>
+      <property name="MP" value="PTS810SJM250SMTRLFS"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="CnK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9181c35e-11c7-4f91-ad0c-5a6cd0e78dc0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AMS1117-3.3</value>
+      <footprint>librerias kicad:SOT229P700X180-4N</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            LDO Voltage Regulators 800MA LDO LINEAR REG
+                        
+</field>
+        <field name="MANUFACTURER">Advanced Monolithic Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="MF">ams AG</field>
+        <field name="MP">AMS1117-3.3</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">SOT-223 Seeed Technology</field>
+        <field name="Price">None</field>
+        <field name="SNAPEDA_PACKAGE_ID">71280</field>
+        <field name="SNAPEDA_PN">AMS1117-3.3</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="AMS1117-3.3" part="AMS1117-3.3" description=""/>
+      <property name="MF" value="ams AG"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.8 mm"/>
+      <property name="Package" value="SOT-223 Seeed Technology"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=snap"/>
+      <property name="SNAPEDA_PACKAGE_ID" value="71280"/>
+      <property name="MP" value="AMS1117-3.3"/>
+      <property name="Description" value="&#xA;                        &#xA;                            LDO Voltage Regulators 800MA LDO LINEAR REG&#xA;                        &#xA;"/>
+      <property name="MANUFACTURER" value="Advanced Monolithic Systems"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="SNAPEDA_PN" value="AMS1117-3.3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2063e333-5395-421c-9227-3df19361983c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-S3-WROOM-1-N16R2</value>
+      <footprint>librerias kicad:XCVR_ESP32-S3-WROOM-1-N16R2</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="Description">
+                        
+                            Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount
+                        
+</field>
+        <field name="MANUFACTURER">Espressif</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.25mm</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="MP">ESP32-S3-WROOM-1-N16R2</field>
+        <field name="PARTREV">v1.0</field>
+        <field name="Package">NON STANDARD Espressif Systems</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ESP32-S3-WROOM-1-N16R2" part="ESP32-S3-WROOM-1-N16R2" description=""/>
+      <property name="MF" value="Espressif Systems"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.25mm"/>
+      <property name="Package" value="NON STANDARD Espressif Systems"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="v1.0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-S3-WROOM-1-N16R2"/>
+      <property name="Description" value="&#xA;                        &#xA;                            Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount&#xA;                        &#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Espressif"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP 32 LM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d6cc74-186c-44ec-89f3-9aeb07a5ca97</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1N5819HW-7-F" part="1N5819HW-7-F">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819HW-7-F</field>
+        <field name="Footprint">1N5819HW-7-F:SOD3715X145N</field>
+        <field name="MF">Diodes Inc.</field>
+        <field name="Description">
+                        
+                            Diode Schottky 1A 40V SOD123 | Diodes Inc 1N5819HW-7-F
+                        
+</field>
+        <field name="Package">SOD-123 Fairchild Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">18-2</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=snap</field>
+        <field name="MP">1N5819HW-7-F</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Diodes Inc.</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="AMS1117-3.3" part="AMS1117-3.3">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">AMS1117-3.3:SOT229P700X180-4N</field>
+        <field name="MF">ams AG</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="Package">SOT-223 Seeed Technology</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">N/A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/AMS1117-3.3/ams/view-part/?ref=snap</field>
+        <field name="SNAPEDA_PACKAGE_ID">71280</field>
+        <field name="MP">AMS1117-3.3</field>
+        <field name="Description">
+                        
+                            LDO Voltage Regulators 800MA LDO LINEAR REG
+                        
+</field>
+        <field name="MANUFACTURER">Advanced Monolithic Systems</field>
+        <field name="Availability">Not in stock</field>
+        <field name="SNAPEDA_PN">AMS1117-3.3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND/ADJ" type="power_in"/>
+        <pin num="2" name="VOUT" type="output"/>
+        <pin num="3" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Pin">
+      <description>Generic connector, single row, 01x08, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3-WROOM-1-N16R2" part="ESP32-S3-WROOM-1-N16R2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-S3-WROOM-1-N16R2</field>
+        <field name="Footprint">ESP32-S3-WROOM-1-N16R2:XCVR_ESP32-S3-WROOM-1-N16R2</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.25mm</field>
+        <field name="Package">NON STANDARD Espressif Systems</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">v1.0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N16R2/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-S3-WROOM-1-N16R2</field>
+        <field name="Description">
+                        
+                            Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount
+                        
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="IO4" type="bidirectional"/>
+        <pin num="5" name="IO5" type="bidirectional"/>
+        <pin num="6" name="IO6" type="bidirectional"/>
+        <pin num="7" name="IO7" type="bidirectional"/>
+        <pin num="8" name="IO15" type="bidirectional"/>
+        <pin num="9" name="IO16" type="bidirectional"/>
+        <pin num="10" name="IO17" type="bidirectional"/>
+        <pin num="11" name="IO18" type="bidirectional"/>
+        <pin num="12" name="IO8" type="bidirectional"/>
+        <pin num="13" name="IO19" type="bidirectional"/>
+        <pin num="14" name="IO20" type="bidirectional"/>
+        <pin num="15" name="IO3" type="bidirectional"/>
+        <pin num="16" name="IO46" type="bidirectional"/>
+        <pin num="17" name="IO9" type="bidirectional"/>
+        <pin num="18" name="IO10" type="bidirectional"/>
+        <pin num="19" name="IO11" type="bidirectional"/>
+        <pin num="20" name="IO12" type="bidirectional"/>
+        <pin num="21" name="IO13" type="bidirectional"/>
+        <pin num="22" name="IO14" type="bidirectional"/>
+        <pin num="23" name="IO21" type="bidirectional"/>
+        <pin num="24" name="IO47" type="bidirectional"/>
+        <pin num="25" name="IO48" type="bidirectional"/>
+        <pin num="26" name="IO45" type="bidirectional"/>
+        <pin num="27" name="IO0" type="bidirectional"/>
+        <pin num="28" name="IO35" type="bidirectional"/>
+        <pin num="29" name="IO36" type="bidirectional"/>
+        <pin num="30" name="IO37" type="bidirectional"/>
+        <pin num="31" name="IO38" type="bidirectional"/>
+        <pin num="32" name="IO39" type="bidirectional"/>
+        <pin num="33" name="IO40" type="bidirectional"/>
+        <pin num="34" name="IO41" type="bidirectional"/>
+        <pin num="35" name="IO42" type="bidirectional"/>
+        <pin num="36" name="RXD0" type="bidirectional"/>
+        <pin num="37" name="TXD0" type="bidirectional"/>
+        <pin num="38" name="IO2" type="bidirectional"/>
+        <pin num="39" name="IO1" type="bidirectional"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41_1" name="GND" type="power_in"/>
+        <pin num="41_2" name="GND" type="power_in"/>
+        <pin num="41_3" name="GND" type="power_in"/>
+        <pin num="41_4" name="GND" type="power_in"/>
+        <pin num="41_5" name="GND" type="power_in"/>
+        <pin num="41_6" name="GND" type="power_in"/>
+        <pin num="41_7" name="GND" type="power_in"/>
+        <pin num="41_8" name="GND" type="power_in"/>
+        <pin num="41_9" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="SK6812">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</docs>
+      <footprints>
+        <fp>LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812</field>
+        <field name="Footprint">LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LESD5D5.0CT1G</field>
+        <field name="Footprint">LESD5D5.0CT1G:TVS_LESD5D5.0CT1G</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">O</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="Description">
+                        
+                            Transient Voltage Suppressors for ESD Protection
+                        
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">LRC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PTS810_SJM_250_SMTR_LFS" part="PTS810_SJM_250_SMTR_LFS">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">PTS810_SJM_250_SMTR_LFS</field>
+        <field name="Footprint">PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS</field>
+        <field name="MF">C&amp;K</field>
+        <field name="Description">
+                        
+                            Tactile Switch SPST-NO Top Actuated Surface Mount
+                        
+</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS810SJM250SMTRLFS/C%2526K/view-part/?ref=snap</field>
+        <field name="MP">PTS810SJM250SMTRLFS</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">CnK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-12</field>
+        <field name="Footprint">TYPE-C-31-M-12:HRO_TYPE-C-31-M-12</field>
+        <field name="MF">HRO Electronics Co., Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap</field>
+        <field name="MP">TYPE-C-31-M-12</field>
+        <field name="Description">
+                        
+                            USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS
+                        
+</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="Availability">Not in stock</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1N5819HW-7-F">
+      <uri>C:\Users\DELL\Desktop\Libreria KiCad alterna\1N5819HW-7-F.kicad_sym</uri>
+    </library>
+    <library logical="AMS1117-3.3">
+      <uri>C:/Users/DELL/Desktop/librerias kicad/AMS1117-3.3.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-S3-WROOM-1-N16R2">
+      <uri>C:/Users/DELL/Desktop/librerias kicad/ESP32-S3-WROOM-1-N16R2.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="LESD5D5.0CT1G">
+      <uri>C:/Users/DELL/Desktop/librerias kicad/LESD5D5.0CT1G.kicad_sym</uri>
+    </library>
+    <library logical="PTS810_SJM_250_SMTR_LFS">
+      <uri>C:/Users/DELL/Desktop/librerias kicad/PTS810_SJM_250_SMTR_LFS.kicad_sym</uri>
+    </library>
+    <library logical="TYPE-C-31-M-12">
+      <uri>C:/Users/DELL/Desktop/librerias kicad/TYPE-C-31-M-12.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BL">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="CHIP_PU">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="3" pintype="passive"/>
+      <node ref="SW2" pin="4" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="3" name="CLK">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="IO9" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="CS">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="IO10" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="D+">
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U3" pin="14" pinfunction="IO20" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="D-">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="DC">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="IO11" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="DIN">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="IO8" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="ESP_3V3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D6" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VOUT" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND/ADJ" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41_9" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="GPIO0">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="D4" pin="A" pintype="passive"/>
+      <node ref="J1" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J1-CC1)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J1-CC2)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="RGB">
+      <node ref="D6" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="RST">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="VCC_5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D4" pin="C" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="19" name="unconnected-(D6-DOUT-Pad4)">
+      <node ref="D6" pin="4" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(U3-IO1-Pad39)">
+      <node ref="U3" pin="39" pinfunction="IO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U3-IO2-Pad38)">
+      <node ref="U3" pin="38" pinfunction="IO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U3-IO3-Pad15)">
+      <node ref="U3" pin="15" pinfunction="IO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U3-IO4-Pad4)">
+      <node ref="U3" pin="4" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U3-IO5-Pad5)">
+      <node ref="U3" pin="5" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U3-IO6-Pad6)">
+      <node ref="U3" pin="6" pinfunction="IO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U3-IO7-Pad7)">
+      <node ref="U3" pin="7" pinfunction="IO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U3-IO14-Pad22)">
+      <node ref="U3" pin="22" pinfunction="IO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U3-IO15-Pad8)">
+      <node ref="U3" pin="8" pinfunction="IO15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U3-IO16-Pad9)">
+      <node ref="U3" pin="9" pinfunction="IO16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U3-IO17-Pad10)">
+      <node ref="U3" pin="10" pinfunction="IO17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U3-IO18-Pad11)">
+      <node ref="U3" pin="11" pinfunction="IO18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-IO21-Pad23)">
+      <node ref="U3" pin="23" pinfunction="IO21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-IO35-Pad28)">
+      <node ref="U3" pin="28" pinfunction="IO35" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U3-IO36-Pad29)">
+      <node ref="U3" pin="29" pinfunction="IO36" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-IO37-Pad30)">
+      <node ref="U3" pin="30" pinfunction="IO37" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U3-IO38-Pad31)">
+      <node ref="U3" pin="31" pinfunction="IO38" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U3-IO39-Pad32)">
+      <node ref="U3" pin="32" pinfunction="IO39" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-IO40-Pad33)">
+      <node ref="U3" pin="33" pinfunction="IO40" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U3-IO41-Pad34)">
+      <node ref="U3" pin="34" pinfunction="IO41" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U3-IO42-Pad35)">
+      <node ref="U3" pin="35" pinfunction="IO42" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U3-IO45-Pad26)">
+      <node ref="U3" pin="26" pinfunction="IO45" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-IO46-Pad16)">
+      <node ref="U3" pin="16" pinfunction="IO46" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-IO47-Pad24)">
+      <node ref="U3" pin="24" pinfunction="IO47" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U3-IO48-Pad25)">
+      <node ref="U3" pin="25" pinfunction="IO48" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-RXD0-Pad36)">
+      <node ref="U3" pin="36" pinfunction="RXD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-TXD0-Pad37)">
+      <node ref="U3" pin="37" pinfunction="TXD0" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
